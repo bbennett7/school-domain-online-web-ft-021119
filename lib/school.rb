@@ -18,5 +18,10 @@ class School
     @roster[grade_num]
   end
 
+  def sort
+    @roster.each_value do ||
+      @roster
+    end 
+  end 
 end 
 
